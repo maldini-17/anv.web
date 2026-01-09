@@ -87,12 +87,24 @@ export const MOCK_DATA = {
     }
   ],
   gallery: [
-    { id: 1, caption: "เดทแรกที่เขินๆ หน่อย", color: "bg-rose-100" },
-    { id: 2, caption: "ทริปนี้สนุกมากเลยเนอะ", color: "bg-blue-100" },
-    { id: 3, caption: "รูปคู่ที่เราชอบที่สุด", color: "bg-orange-100" },
-    { id: 4, caption: "เซอร์ไพรส์วันเกิดปีที่แล้ว", color: "bg-purple-100" },
-    { id: 5, caption: "ดินเนอร์มื้อพิเศษ", color: "bg-green-100" },
-    { id: 6, caption: "รอยยิ้มของคุณคือความสุขของผม", color: "bg-yellow-100" }
+    {
+    id: 1,
+    caption: "...",
+    color: "bg-rose-100",
+    image: "/78.jpg" // ใส่ path ของรูปที่อยู่ใน folder public ตรงนี้
+  },
+  {
+    id: 2,
+    caption: "...",
+    color: "bg-rose-100",
+    image: "/trip1.jpg" // ใส่ path ของรูปที่อยู่ใน folder public ตรงนี้
+  },
+  {
+    id: 3,
+    caption: "...",
+    color: "bg-rose-100",
+    image: "/trip1.jpg" // ใส่ path ของรูปที่อยู่ใน folder public ตรงนี้
+  },
   ],
   quiz: [
     {

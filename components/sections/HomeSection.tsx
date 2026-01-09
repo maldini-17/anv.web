@@ -35,11 +35,11 @@ export default function HomeSection({ setPage }: HomeSectionProps) {
         
         <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
           <span className={`inline-block px-4 py-1.5 rounded-full text-xs tracking-widest uppercase mb-6 bg-white border border-stone-200 ${CONFIG.THEME.text}`}>
-            🎉 Happy Anniversary 🎉
+            สุขสตร์วันครบรอบ นะคะ
           </span>
           <h1 className={`font-serif text-4xl md:text-6xl lg:text-7xl font-medium leading-tight mb-8 ${CONFIG.THEME.text}`}>
-            สุขสันต์วันครบรอบนะ<br/>
-            <span className={`${CONFIG.THEME.accent}`}>ที่รักของเค้า</span>
+            Anniversary<br/>
+            <span className={`${CONFIG.THEME.accent}`}>น้องนัซมิ้วคนสวย</span>
           </h1>
 
           <div className="bg-white/50 backdrop-blur-sm p-6 rounded-2xl border border-stone-100 shadow-sm mb-10 max-w-2xl mx-auto relative overflow-hidden">
