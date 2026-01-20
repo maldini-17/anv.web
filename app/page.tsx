@@ -61,22 +61,7 @@ const LoginPage = ({ onLogin }: LoginPageProps) => {
             />
           </div>
           
-          <div className="grid grid-cols-2 gap-4">
-            <button
-              type="button"
-              onClick={() => setRole('him')}
-              className={`p-3 rounded-xl border transition-all ${role === 'him' ? 'border-rose-400 bg-rose-50 text-rose-700' : 'border-stone-200 text-stone-500 hover:bg-stone-50'}`}
-            >
-              Him
-            </button>
-            <button
-              type="button"
-              onClick={() => setRole('her')}
-              className={`p-3 rounded-xl border transition-all ${role === 'her' ? 'border-rose-400 bg-rose-50 text-rose-700' : 'border-stone-200 text-stone-500 hover:bg-stone-50'}`}
-            >
-              Her
-            </button>
-          </div>
+          
 
           {error && <p className="text-red-400 text-xs">{error}</p>}
 

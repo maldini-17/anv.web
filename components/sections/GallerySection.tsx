@@ -44,7 +44,7 @@ const MEMORIES = [
     id: 7, 
     caption: "รอยยิ้มหวานๆ", 
     role: "Smile", 
-    img: "14.jpg" 
+    img: "/14.jpg" 
   },
   { 
     id: 8, 
