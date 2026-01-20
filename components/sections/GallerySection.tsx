@@ -26,13 +26,13 @@ const MEMORIES = [
     id: 4, 
     caption: "ดินเนอร์ใต้แสงเทียน", 
     role: "Dinner", 
-    img: "/3.jpg" 
+    img: "/10.jpg" 
   },
   { 
     id: 5, 
     caption: "รูปคู่ใบแรก", 
     role: "First Photo", 
-    img: "/6.jpg" 
+    img: "/28.jpg" 
   },
   { 
     id: 6, 
@@ -44,13 +44,13 @@ const MEMORIES = [
     id: 7, 
     caption: "รอยยิ้มหวานๆ", 
     role: "Smile", 
-    img: "/14.jpg" 
+    img: "/47.jpg" 
   },
   { 
     id: 8, 
     caption: "รอยยิ้มหวานๆ", 
     role: "Smile", 
-    img: "/15.jpg" 
+    img: "/50.jpg" 
   },
   { 
     id: 9, 
