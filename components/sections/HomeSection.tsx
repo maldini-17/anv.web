@@ -77,14 +77,14 @@ export default function HomeSection({ setPage }: HomeSectionProps) {
               onClick={() => setPage('story')}
               className={`${CONFIG.THEME.primary} ${CONFIG.THEME.primaryHover} text-white px-8 py-4 rounded-full font-medium transition-all shadow-lg hover:shadow-xl hover:-translate-y-1`}
             >
-              ดูเส้นทางรักของเรา
+              เจอกันได้ไงนะ
             </button>
             <button
               onClick={() => setPage('letter')}
               className={`bg-white text-stone-600 border border-stone-200 hover:bg-stone-50 px-8 py-4 rounded-full font-medium transition-all shadow-sm hover:shadow-md hover:-translate-y-1 flex items-center justify-center gap-2`}
             >
               <Mail className="w-4 h-4" />
-              อ่านจดหมาย
+              สิ่งที่อยากบอก
             </button>
           </div>
         </div>

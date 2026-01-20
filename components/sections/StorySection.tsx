@@ -8,7 +8,7 @@ export default function StorySection() {
     <div className="max-w-3xl mx-auto px-4 py-16 animate-fade-in">
       <div className="text-center mb-16">
         <h2 className={`font-serif text-3xl md:text-4xl ${CONFIG.THEME.text}`}>Our Love Journey</h2>
-        <p className="text-stone-500 mt-2">บันทึกการเดินทางของหัวใจ</p>
+        <p className="text-stone-500 mt-2">บันทึกการเดินทาง</p>
       </div>
 
       <div className="relative border-l-2 border-stone-200 ml-4 md:ml-auto md:mr-auto md:w-full space-y-12 pb-12">

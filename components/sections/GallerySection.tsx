@@ -95,7 +95,7 @@ export default function GallerySection() {
             Best Memories
           </h2>
           <p className="text-stone-500 text-lg">
-            ชี้ที่รูปเพื่อดูความในใจ
+            น่ารักนิเวลาไม่ขี้วีน
           </p>
         </div>
 
